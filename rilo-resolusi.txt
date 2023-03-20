@@ -1,0 +1,5 @@
+Halo pak, salam kenal 
+
+resolusi saya:
+ - Membuat web dengan framework javascript
+ - bekerja di startup
